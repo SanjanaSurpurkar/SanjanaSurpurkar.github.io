@@ -1,0 +1,20 @@
+/* :root {
+  --bg-dark: #000000;
+  --bg-panel: #2f4550;
+  --bg-soft: #586f7c;
+  --accent: #b8dbd9;
+  --text-light: #f4f4f9;
+  --radius: 16px;
+  --transition: 0.3s ease-in-out;
+} */
+ :root {
+  --bg-dark: #22223b;
+  --bg-panel: #4a4e69;
+  --bg-soft: #9a8c98;
+  --accent: #c9ada7;
+  --text-light: #f2e9e4;
+  --radius: 16px;
+  --transition: 0.3s ease-in-out;
+ }
+
+/* ["#22223b","#4a4e69","#9a8c98","#c9ada7","#f2e9e4"] */
