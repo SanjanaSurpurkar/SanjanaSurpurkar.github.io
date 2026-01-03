@@ -2,7 +2,7 @@ const DATA = {
   home: `
     <section class="section">
       <h1 class="section-title">Home</h1>
-      <img src="assets/Profile.jpeg" alt="Profile Pic" class="profile-pic">
+      <img src="assets/Profile.jpg" alt="Profile Pic" class="profile-pic">
       <div class="card">
         <p><strong>About</strong><br>
         Proactive individual with a sound academic background and practical experience in projects, seeking opportunities to apply and expand my technical skills.
